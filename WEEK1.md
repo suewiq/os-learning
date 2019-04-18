@@ -59,4 +59,8 @@ github
 
 * git add .
 
+* git commit -m "commit message"
+
 * git push -u origin master
+
+	出现一个问题 error:src refspec master does not match any; error: failed to push some refs to ...
