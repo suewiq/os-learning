@@ -64,4 +64,9 @@ github
 * git push -u origin master
 
 	出现一个问题 error:src refspec master does not match any; error: failed to push some refs to ...
+
 	[解决方法 设置global的user.email和user.name](https://blog.csdn.net/wangwangwanglichao/article/details/79983262)
+
+	又出现一个问题non-fast-forward 
+
+	[解决方法](https://blog.csdn.net/kiddd_fu/article/details/78247290)
