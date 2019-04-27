@@ -70,3 +70,8 @@ github
 	又出现一个问题non-fast-forward 
 
 	[解决方法](https://blog.csdn.net/kiddd_fu/article/details/78247290)
+
+4/25 
+
+**主要学习gitpro里面的东西**
+
